@@ -1,0 +1,1988 @@
+fileFormatVersion: 2
+guid: d71ee6f8f3e37414098970a2fe26a2f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 336
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a9f81eae306b43aced92751d9c573
+      internalID: -1657428924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 336
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e85479382d5fe44c900591461704a4b
+      internalID: 1962268456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 336
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbae2652dc48aac42b96bd5ae205bbd8
+      internalID: 861557968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 336
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f9b63fd124b8b4892eaf357d086163
+      internalID: -2134183848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 336
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd4ce73569f083408b70977ace67934
+      internalID: 674447345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 336
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d3d55f8be8ad4d92b5813cbc2190d
+      internalID: -1053179485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 336
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73747d30db299e549863759632cbffcc
+      internalID: 1427861544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 336
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d65dbb622acae4fb643b7d2f35b898
+      internalID: -2092062825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 336
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162ad3955d63c4845b78cb5d6a59cae3
+      internalID: 1556667951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_9
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 336
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f9bc58449fad446bf16ada8ac80156
+      internalID: 1164152377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 336
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69218c4377e1edc40be418750b871ece
+      internalID: -1896904047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_11
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 336
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d39d820d169bc949bbb14bad69f9df0
+      internalID: -1056357684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 288
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b28852a33a76d4b848451e5ccccd44
+      internalID: -580905256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_13
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 288
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec0f18694405046a23f6cfcd0e1a11
+      internalID: -1255966842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 288
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb118b340478334087d60db9c09044d
+      internalID: 42557941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f730baa1056402d499c76f9c5a8740d1
+      internalID: -1783689629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 288
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb26d302075c21448f105996b673de3
+      internalID: 198443366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 288
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e530076d69d194e8b1a35f060502b6
+      internalID: 1073660337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 288
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e540bc4941b142811b3d4bee80086
+      internalID: 1003637969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 288
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd24aa71fba0f41839815f902daa2e
+      internalID: -1620501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_20
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 288
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164fb1de7b3bfd4c855f1ec2124284e
+      internalID: -1282711113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 288
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8d8c0d576b3ff4d8e3dc9e155eb4c6
+      internalID: 2021547410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 288
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2f44ab3675cf34dba2a1a3f72bc387
+      internalID: -1523480536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 288
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993dbfa69510d5b48881404c93be2ffd
+      internalID: -342159699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 240
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe895c2782822b458a400dadb35508f
+      internalID: -2105967971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_25
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 240
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c723b3ad752ab8541832ac483e71c3c3
+      internalID: 600124453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 240
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a155228fbfc486e4a83ba3fb331387d7
+      internalID: 1005525920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e67eee774c4b74ab7743e23d78bc3a
+      internalID: 1029717393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 240
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b571e796caa7645b43c2af7d2f0abd
+      internalID: -159681982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce891df172e1d8b499b414bb7a1a3e0a
+      internalID: -175575063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 240
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260247ba340b4a46b7574867884e349
+      internalID: -1166084065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 240
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041041441c6305d4ca8252586aee9a7e
+      internalID: -853659381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_32
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 240
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209e466d60b5add4ea61f182aebf3828
+      internalID: 2131942192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_33
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 240
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef8ce1ee1a45e147bc200ba4e9259af
+      internalID: 878255108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_34
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 240
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d355d47708aa748a70d9549b8c6a0b
+      internalID: -1974793012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 240
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22da20b248014894cbd98094b9749315
+      internalID: 1356010825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5691bd0429db59479db2377144ea4d1
+      internalID: -1606475731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_37
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 192
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5b220dd4a82d84d8744c9eb73e6668
+      internalID: -1743804026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_38
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 192
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da421796d2fc02044bbeb53c3b6389e4
+      internalID: 707608467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_39
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 192
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f441c3774dfa64a894bea6be6ac522
+      internalID: 215236474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_40
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fea31ea602c8b842ba44bd4e6d078ce
+      internalID: -605996019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_41
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 192
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2569ea2c9e4d645bf43f79b4c0f3cf
+      internalID: 1984748192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 192
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f6c8db69a64a458408262b30ebbec
+      internalID: -1470058514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_43
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 192
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469c8b9978ffa244299217afb4cd7882
+      internalID: -1895537686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_44
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70c02fa8fcf70a46b477dd3120c3428
+      internalID: 2143178059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_45
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 192
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42baca127eab7c347a2c5d5d895dcc7f
+      internalID: -933420952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 192
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7ffc2214e3fb42a7f8333e43f9149
+      internalID: 865422788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_47
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd3f07c89028f143b4d7623030436ec
+      internalID: -1531266621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd35c80cf9f74ec4e9e403dc74f8d7cd
+      internalID: 1756374849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_49
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 144
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7fbc76910d3cf458495a7cec49bcdc
+      internalID: -737650741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 144
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2010136f56ad84699aef58e57e9449
+      internalID: -1993045705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c48b30857af5348a3130fb5a747195
+      internalID: -1593109254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_52
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 144
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed3390b2ad5d044b22176c4b9c87a5
+      internalID: -242700233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 144
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11b578229336f54599dd35b8e30deda
+      internalID: 2091552986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_54
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471154dd77a4b414ba9a49ceaa73617d
+      internalID: -2109043450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 144
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b1f71e02cfc2843bad6e92d629f72e
+      internalID: 1858690640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_56
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 144
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5e8a424da562f46a9b30a038335072
+      internalID: -1317556888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_57
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2aa57d139f64e4ea1794fb42565ccd
+      internalID: -1741308333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_58
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 96
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70410d0c0c5611b42afe9b8364d558df
+      internalID: 1828032927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_59
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 96
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2960cdcf2b773469f0a9713b8c10db
+      internalID: 1626726292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 96
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63e891ee9246f841b9261f5fce63b6d
+      internalID: -1044464313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 96
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694bd1be30b758642bcec901ddbb7900
+      internalID: 185016082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 96
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f081e81cfd2f488d8bc97a7129b5f
+      internalID: 1523447944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_63
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 96
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd192d145bbcda499ead1c1447b3505
+      internalID: 40322420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_64
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 96
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5645d6e4dd5d14492b4b1163cdd8cf
+      internalID: -884712927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_65
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 96
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a11cec0ae1bd74ab2dcd7787e16181
+      internalID: -496421954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_66
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693cd105675a5cc448ed1bea1f56c8ab
+      internalID: 1423099181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_67
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075bffbbe436a934fbe5ea774a28ac9a
+      internalID: 1973048481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09d0af7fab29ae44a540df9552115d4
+      internalID: -1956032420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_69
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0ca9a7af9504548a4f2b221e8b52b2
+      internalID: -964692059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 48
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc451b1b85b7f64da2d36de8d42d85f
+      internalID: 996628272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_71
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 48
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcc021f224e4e54284e45b22aff6c90
+      internalID: 2005471153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 48
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee502dd9d4e92a48b141c4206756161
+      internalID: -799510848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_73
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 48
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3a8844c66e95140b4096662ac5013e
+      internalID: -1665601719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_74
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 48
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d66d8c2dc8e41549bd7eef19aee1e0e
+      internalID: -978249431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d12acfacc58ed4098f065ae01934bc
+      internalID: 295099863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_76
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643abad81a121c94786472dc6e7db5f2
+      internalID: -384456462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f379ebe91391d46a5294029ad055b2
+      internalID: -68934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_78
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089625aa43140a64487d2042af37a127
+      internalID: 306884058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_79
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce02a223dcb614247b6fdc82bc3a3b59
+      internalID: -1397582327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_80
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd76c6f44c003e4d9a143e034930099
+      internalID: 1102164548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_81
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452c5ff313d83424a83ec24927b4d9f3
+      internalID: -1082668723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_82
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7541d764cad247498c2d6a6c056af3b
+      internalID: -49794884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star Trek TNG Cast - Updated_83
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7b173cd10a7de4a93470f6dc427d2f
+      internalID: -879502401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Star Trek TNG Cast - Updated_0: -1657428924
+      Star Trek TNG Cast - Updated_1: 1962268456
+      Star Trek TNG Cast - Updated_10: -1896904047
+      Star Trek TNG Cast - Updated_11: -1056357684
+      Star Trek TNG Cast - Updated_12: -580905256
+      Star Trek TNG Cast - Updated_13: -1255966842
+      Star Trek TNG Cast - Updated_14: 42557941
+      Star Trek TNG Cast - Updated_15: -1783689629
+      Star Trek TNG Cast - Updated_16: 198443366
+      Star Trek TNG Cast - Updated_17: 1073660337
+      Star Trek TNG Cast - Updated_18: 1003637969
+      Star Trek TNG Cast - Updated_19: -1620501103
+      Star Trek TNG Cast - Updated_2: 861557968
+      Star Trek TNG Cast - Updated_20: -1282711113
+      Star Trek TNG Cast - Updated_21: 2021547410
+      Star Trek TNG Cast - Updated_22: -1523480536
+      Star Trek TNG Cast - Updated_23: -342159699
+      Star Trek TNG Cast - Updated_24: -2105967971
+      Star Trek TNG Cast - Updated_25: 600124453
+      Star Trek TNG Cast - Updated_26: 1005525920
+      Star Trek TNG Cast - Updated_27: 1029717393
+      Star Trek TNG Cast - Updated_28: -159681982
+      Star Trek TNG Cast - Updated_29: -175575063
+      Star Trek TNG Cast - Updated_3: -2134183848
+      Star Trek TNG Cast - Updated_30: -1166084065
+      Star Trek TNG Cast - Updated_31: -853659381
+      Star Trek TNG Cast - Updated_32: 2131942192
+      Star Trek TNG Cast - Updated_33: 878255108
+      Star Trek TNG Cast - Updated_34: -1974793012
+      Star Trek TNG Cast - Updated_35: 1356010825
+      Star Trek TNG Cast - Updated_36: -1606475731
+      Star Trek TNG Cast - Updated_37: -1743804026
+      Star Trek TNG Cast - Updated_38: 707608467
+      Star Trek TNG Cast - Updated_39: 215236474
+      Star Trek TNG Cast - Updated_4: 674447345
+      Star Trek TNG Cast - Updated_40: -605996019
+      Star Trek TNG Cast - Updated_41: 1984748192
+      Star Trek TNG Cast - Updated_42: -1470058514
+      Star Trek TNG Cast - Updated_43: -1895537686
+      Star Trek TNG Cast - Updated_44: 2143178059
+      Star Trek TNG Cast - Updated_45: -933420952
+      Star Trek TNG Cast - Updated_46: 865422788
+      Star Trek TNG Cast - Updated_47: -1531266621
+      Star Trek TNG Cast - Updated_48: 1756374849
+      Star Trek TNG Cast - Updated_49: -737650741
+      Star Trek TNG Cast - Updated_5: -1053179485
+      Star Trek TNG Cast - Updated_50: -1993045705
+      Star Trek TNG Cast - Updated_51: -1593109254
+      Star Trek TNG Cast - Updated_52: -242700233
+      Star Trek TNG Cast - Updated_53: 2091552986
+      Star Trek TNG Cast - Updated_54: -2109043450
+      Star Trek TNG Cast - Updated_55: 1858690640
+      Star Trek TNG Cast - Updated_56: -1317556888
+      Star Trek TNG Cast - Updated_57: -1741308333
+      Star Trek TNG Cast - Updated_58: 1828032927
+      Star Trek TNG Cast - Updated_59: 1626726292
+      Star Trek TNG Cast - Updated_6: 1427861544
+      Star Trek TNG Cast - Updated_60: -1044464313
+      Star Trek TNG Cast - Updated_61: 185016082
+      Star Trek TNG Cast - Updated_62: 1523447944
+      Star Trek TNG Cast - Updated_63: 40322420
+      Star Trek TNG Cast - Updated_64: -884712927
+      Star Trek TNG Cast - Updated_65: -496421954
+      Star Trek TNG Cast - Updated_66: 1423099181
+      Star Trek TNG Cast - Updated_67: 1973048481
+      Star Trek TNG Cast - Updated_68: -1956032420
+      Star Trek TNG Cast - Updated_69: -964692059
+      Star Trek TNG Cast - Updated_7: -2092062825
+      Star Trek TNG Cast - Updated_70: 996628272
+      Star Trek TNG Cast - Updated_71: 2005471153
+      Star Trek TNG Cast - Updated_72: -799510848
+      Star Trek TNG Cast - Updated_73: -1665601719
+      Star Trek TNG Cast - Updated_74: -978249431
+      Star Trek TNG Cast - Updated_75: 295099863
+      Star Trek TNG Cast - Updated_76: -384456462
+      Star Trek TNG Cast - Updated_77: -68934349
+      Star Trek TNG Cast - Updated_78: 306884058
+      Star Trek TNG Cast - Updated_79: -1397582327
+      Star Trek TNG Cast - Updated_8: 1556667951
+      Star Trek TNG Cast - Updated_80: 1102164548
+      Star Trek TNG Cast - Updated_81: -1082668723
+      Star Trek TNG Cast - Updated_82: -49794884
+      Star Trek TNG Cast - Updated_83: -879502401
+      Star Trek TNG Cast - Updated_9: 1164152377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
