@@ -1,7 +1,9 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class player : MonoBehaviour
 {
@@ -10,19 +12,29 @@ public class player : MonoBehaviour
     public Transform transform;
     public SpriteRenderer spriteRenderer;
     public Animator animator;
+
     public float jumpPower,
         moveSeped;
+
     Vector3 move;
+
     bool isCanJump = false, isDead = false;
+
+    public TextMeshProUGUI txtScore;
+    int score = 0;
 
     void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.tag == "Coin")
         {
             Destroy(other.gameObject);
+            score++;
+            txtScore.SetText(score.ToString());
         }
         else if (other.gameObject.tag == "Door")
         {
+            score += 100;
+            txtScore.SetText(score.ToString());
             SceneManager.LoadScene("EndScene");
         }
     }
@@ -33,6 +45,7 @@ public class player : MonoBehaviour
         {
             isDead = true;
             animator.SetBool("dead", true);
+            SceneManager.LoadScene("SampleScene");
         }
         else if (other.gameObject.tag == "Ground")
         {
@@ -50,6 +63,8 @@ public class player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (Input.GetMouseButtonDown(0)) attack();
+
         if (isDead) dead();
         else if ((Input.GetKeyDown(KeyCode.Space)
             || Input.GetKeyDown(KeyCode.UpArrow)
@@ -60,7 +75,6 @@ public class player : MonoBehaviour
         else if (Input.GetKey(KeyCode.RightArrow)
             || Input.GetKey(KeyCode.D)) moveRight();
         else idle();
-        if (Input.GetMouseButtonDown(0)) attack();
     }
 
     void dead()
@@ -91,7 +105,6 @@ public class player : MonoBehaviour
 
     void moveLeft()
     {
-        //spriteRenderer.flipX = true;
         transform.localScale = new Vector3(-1, 1, 1);
         transform.Translate(-move);
         animator.SetBool("idle", false);
@@ -100,7 +113,6 @@ public class player : MonoBehaviour
 
     void moveRight()
     {
-        //spriteRenderer.flipX = false;
         transform.localScale = new Vector3(1, 1, 1);
         transform.Translate(move);
         animator.SetBool("idle", false);
